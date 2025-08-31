@@ -8,6 +8,6 @@ TPI-Y-Ejercicios
 |
 └── Ejercicios/
     └── <Nombre-Completo-Estudiante>/
-        └── Tema<N#>_<Nombre-Completo>/
+        └── Tema<N#>_<Titulo>/
             └── Ejercicio<N#>_<Nombre(Opcional)>/
 ```
