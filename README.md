@@ -1,4 +1,5 @@
 # TPI-Y-Ejercicios
+## Estructura
 ```
 TPI-Y-Ejercicios
 ├── TPI/
@@ -8,6 +9,8 @@ TPI-Y-Ejercicios
 |
 └── Ejercicios/
     └── <Nombre-Completo-Estudiante>/
-        └── Tema<N#>_<Titulo>/
-            └── Ejercicio<N#>_<Nombre(Opcional)>/
+        └── Tema<N#>/
+            └── <Nombre-Ejercicio>/
 ```
+## Notas
+- Cuando copien y peguen una carpeta de un ejercicio borren el .git (a menos que quieran renegar)
