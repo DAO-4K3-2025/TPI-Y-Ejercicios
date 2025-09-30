@@ -1,2 +1,5 @@
 # Archivos cache de clases
 *.pyc
+__pycache__/
+*.pyo
+*.pyd
